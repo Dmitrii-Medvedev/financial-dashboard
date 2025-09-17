@@ -58,5 +58,6 @@
 
 ---
 
-## 📎 Ссылка на дашборд
+## 📎 Ссылки
 🔗 [Финансовый дашборд в Yandex DataLens](https://datalens.yandex/g3y2fkdchi5a1)
+🔗 [Dashboard Canvas](https://drive.google.com/file/d/1Kc9gZzg_Pqn2ZYu5W-PmFDApML6lXvIy/view?usp=drive_link)
